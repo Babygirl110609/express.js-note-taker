@@ -3,12 +3,11 @@ const app = express()
 const PORT = process.env.PORT || 3000
 
 app.use(express.json())
-app.use(express.urlencoded({extended:true}) //req.body 
+app.use(express.urlencoded({extended:true}))//req.body 
 
-
-
-
-
+app.use(express.static("public"))
+app.use(require('./routes/api'));
+app.use(require('./routes/html'));
 
 
 
