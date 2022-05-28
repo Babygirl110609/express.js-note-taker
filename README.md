@@ -1,7 +1,10 @@
-Title: Note-Taker
+Title: 
+      Note-Taker
 About The Project
   This note-taker app is simple and easy to use. From simply open the app, jog a few note down and for it to show up in your calendar and email. 
+  
   Built With
+  
   Javascript
   Bootstrap
   Html
@@ -17,7 +20,6 @@ npm install
 
 Installation
 
-Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
 
 Get a free API Key at https://example.com
 Clone the repo
