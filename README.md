@@ -1,7 +1,9 @@
 Title: 
       Note-Taker
+
 About The Project
-  This note-taker app is simple and easy to use. From simply open the app, jog a few note down and for it to show up in your calendar and email. 
+  T
+  his note-taker app is simple and easy to use. From simply open the app, jog a few note down and for it to show up in your calendar and email. 
   
   Built With
   
@@ -34,6 +36,8 @@ MIT License. See LICENSE.txt for more information.
 Contact
 
 Your Name - mrslagos1592@yahoo.com
+
+
 Project Link: git@github.com:Babygirl110609/express.js-note-taker.git
 
 
