@@ -21,9 +21,7 @@ npm install
 Installation
 
 
-Get a free API Key at https://example.com
-Clone the repo
-git clone https://github.com/your_username_/Project-Name.git
+git clone git@github.com:Babygirl110609/express.js-note-taker.git
 Install NPM packages
 npm install
 Enter your API in config.js
@@ -31,11 +29,17 @@ const API_KEY = 'ENTER YOUR API';
 
 License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+MIT License. See LICENSE.txt for more information.
 
 Contact
 
-Your Name - @your_twitter - email@example.com
+Your Name - mrslagos1592@yahoo.com
+Project Link: git@github.com:Babygirl110609/express.js-note-taker.git
 
-Project Link: https://github.com/your_username/repo_name
+
+
+<img width="1439" alt="Screen Shot 2022-05-28 at 5 16 11 PM" src="https://user-images.githubusercontent.com/101305146/170844441-582eb611-c7ce-47d3-b950-f6bc491db30a.png">
+
+
+
 
